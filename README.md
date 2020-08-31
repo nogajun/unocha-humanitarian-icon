@@ -1,5 +1,5 @@
-LibreOffice UN OCHA Humanitarian Icon set  (Including COVID-19 icon set) Extensions
-===================================================================================
+LibreOffice UN OCHA Humanitarian Icon set  (Including COVID-19 icon set) Extension
+==================================================================================
 
 A set of humanitarian icons released by [UN OCHA](https://www.unocha.org/) in the public domain. You can change the size and color of the inserted icon.
 
